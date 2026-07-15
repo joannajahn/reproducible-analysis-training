@@ -2,8 +2,15 @@
 title: "About"
 ---
 
-About this site
+This website was created as part of the SIB course \*Make Your Research FAIRer with Quarto, GitHub and Zenodo\*.
 
-```{r}
-1 + 1
-```
+It demonstrates a reproducible research workflow using:
+
+- Quarto for combining narrative, code and results;
+- R for data analysis and visualization;
+- Git and GitHub for version control;
+- \`renv\` for recording package dependencies;
+- GitHub Actions for automated website publishing;
+- Zenodo for archiving a release and assigning a DOI.
+
+The example analysis explores trends in baby names in the United States using the \`babynames\` R package.
