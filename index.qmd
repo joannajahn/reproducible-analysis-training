@@ -2,6 +2,10 @@
 title: "quarto-tutorial"
 ---
 
+```         
+[![DOI](https://zenodo.org/badge/1292948145.svg)](https://doi.org/10.5281/zenodo.21378666)
+```
+
 In this project we aim to visualize quarto previewe the trends of the most frequently used baby names from 1880 to 2017 in the United States. We do this by:
 
 - Understanding the different columns of the data set
