@@ -1,0 +1,1 @@
+Sitemap: https://joannajahn.github.io/reproducible-analysis-training/sitemap.xml
