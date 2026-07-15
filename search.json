@@ -25,6 +25,6 @@
     "href": "index.html",
     "title": "quarto-tutorial",
     "section": "",
-    "text": "[![DOI](https://zenodo.org/badge/1292948145.svg)](https://doi.org/10.5281/zenodo.21378666)\nIn this project we aim to visualize quarto previewe the trends of the most frequently used baby names from 1880 to 2017 in the United States. We do this by:\n\nUnderstanding the different columns of the data set\nFind the top 10 most frequently used baby names in the data for:\n\ngirls\nboys\n\nPlot the yearly trend of the top 10 baby names"
+    "text": "&lt;/&gt; Markdown\n[![DOI](https://zenodo.org/badge/1292948145.svg)](https://doi.org/10.5281/zenodo.21378666)\nIn this project we aim to visualize quarto previewe the trends of the most frequently used baby names from 1880 to 2017 in the United States. We do this by:\n\nUnderstanding the different columns of the data set\nFind the top 10 most frequently used baby names in the data for:\n\ngirls\nboys\n\nPlot the yearly trend of the top 10 baby names"
   }
 ]
