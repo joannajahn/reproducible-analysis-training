@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://joannajahn.github.io/reproducible-analysis-training/index.html</loc>
+    <lastmod>2026-07-15T11:02:30.476Z</lastmod>
+  </url>
+  <url>
     <loc>https://joannajahn.github.io/reproducible-analysis-training/analysis.html</loc>
-    <lastmod>2026-07-15T10:30:55.001Z</lastmod>
+    <lastmod>2026-07-15T11:02:30.476Z</lastmod>
   </url>
   <url>
     <loc>https://joannajahn.github.io/reproducible-analysis-training/about.html</loc>
-    <lastmod>2026-07-15T10:30:55.001Z</lastmod>
-  </url>
-  <url>
-    <loc>https://joannajahn.github.io/reproducible-analysis-training/index.html</loc>
-    <lastmod>2026-07-15T10:30:55.001Z</lastmod>
+    <lastmod>2026-07-15T11:02:30.476Z</lastmod>
   </url>
 </urlset>
