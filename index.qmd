@@ -2,7 +2,7 @@
 title: "quarto-tutorial"
 ---
 
-In this project we aim to visualize the trends of the most frequently used babynames from 1880 to 2017 in the United States. We do this by:
+In this project we aim to visualizquarto previewe the trends of the most frequently used babynames from 1880 to 2017 in the United States. We do this by:
 
 - Understanding the different columns of the data set
 - Find the top 10 most frequently used baby names in the data for:
